@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+h1{
+    margin-top: 70px auto 0 auto;
+    font-size: 5rem;
+    color: #66BFBF;
+}
+.main{
+    
+    background-color: #E4F9F5;
+    margin: 0;
+    padding-top: 100px;
+    font-family: 'Caveat', cursive;
+    
+}
+.bottom-cloud{
+    position: absolute;
+}
+.top-cloud{
+    position: absolute;
+    bottom: 89%;
+    right: 30%;
+}
+h2{
+    font-family: 'Delicious Handrawn', cursive;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3,a{
+    font-family: 'Delicious Handrawn', cursive;
+    color: #11999E;
+}
+p{
+    font-family: 'Delicious Handrawn', cursive;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+a{
+    font-family: 'Caveat', cursive;
+}
+.h22{
+    font-size: 2.5rem;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+.ski1{
+    width: 25%;
+    float: left;
+    margin-right: 60px;
+}
+.ski2{
+    width: 25%;
+    float: right;
+}
+.profile{
+    margin: 100px;
+}
+.skills{
+    margin:100px;
+}
+
+hr{
+    width: 10%;
+    border-style: dotted none none none;
+    border-color: #6a7676;
+    border-width: 3px;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 30px;
+    margin-top: 30px;
+}
+.footer-link1{
+    margin-right: 10px;
+    position: relative;
+    top: -20px;
+}
+.footer-link2{
+    margin-left: 10px;
+    position: relative;
+    top: -20px;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Delicious Handrawn', cursive;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+  a:hover{
+    color: #EAF6F6;
+  }
+  .copyright{
+    color: #EAF6F6;
+    font-size: 1rem;
+    padding: 10px 10px;
+  }
